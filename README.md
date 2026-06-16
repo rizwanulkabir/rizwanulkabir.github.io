@@ -10,7 +10,7 @@ A clean, responsive academic homepage built from my CV. Plain HTML/CSS/JS — no
 
 ## Adding your photo
 Drop a square photo named **`profile.jpg`** into the `assets/` folder.
-If the file is missing, the site automatically shows your "RK" initials instead.
+If the file is missing, the site automatically shows your "MRK" initials instead.
 A square image (e.g. 600×600) works best.
 
 ## Preview locally
